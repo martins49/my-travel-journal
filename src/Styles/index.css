@@ -19,12 +19,13 @@ body {
 
 .header-text {
     margin-left: 5px;
+    font-size: 25px;
 }
 
 .globe-img {
     /* background-color: red; */
     color: white;
-    width: 50px;
+    width: 30px;
     border-radius: 50%;
 }
 
