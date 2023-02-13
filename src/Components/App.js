@@ -12,8 +12,6 @@ const App = () => {
         {...item}
         />
     })
-
-
     return (
         <div>
             {/* <h1>Hello World</h1> */}
@@ -21,8 +19,6 @@ const App = () => {
             {dataElement}
 
         </div>
-
-
     )
 }
 export default App
